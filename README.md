@@ -78,3 +78,4 @@ run MyToDoApp
 * [Companies Using Sinatra](http://www.sinatrarb.com/wild.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-basics'>Sinatra Basics</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 Sinatra Basics</p>
